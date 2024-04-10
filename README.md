@@ -1,3 +1,3 @@
 # My First GitHub Pages Website
 
-YOu can access it by going to https://github.com/emily121212/Hellworld
+You can access it by going to https://emily121212.github.io/Hellworld
